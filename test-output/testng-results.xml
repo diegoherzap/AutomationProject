@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1455" started-at="2018-07-06T19:40:56Z" finished-at="2018-07-06T19:40:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1455" started-at="2018-07-06T19:40:56Z" finished-at="2018-07-06T19:40:57Z">
+      <class name="RestApiTests.GetUser">
+        <test-method status="PASS" signature="getUserReturns200WithExpectedName()[pri:0, instance:RestApiTests.GetUser@6d8a00e3]" name="getUserReturns200WithExpectedName" duration-ms="1455" started-at="2018-07-06T14:40:56Z" finished-at="2018-07-06T14:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserReturns200WithExpectedName -->
+      </class> <!-- RestApiTests.GetUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

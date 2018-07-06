@@ -1,0 +1,28 @@
+{
+	"users":[{
+			"id": "1",
+			"firstName": "John",
+			"lastName": "Doe",
+			"email": "john.doe@email.com",
+			"age": "45",
+			"companyId": "654"
+	},
+	{
+			"id": "2",
+			"firstName": "Billy",
+			"lastName": "Brooke",
+			"email": "billy-brooke@email.com",
+			"age": "36",
+			"companyId": "987"
+	}],	
+	"companies":[{
+			"id":"A1",
+			"name":"Apple.Inc",
+			"description":"Company founded by Steve Jobs"
+	},
+	{
+			"id":"S1",
+			"name":"SONY",
+			"description":"Japanese company that invented WalkMan"
+	}]
+}
