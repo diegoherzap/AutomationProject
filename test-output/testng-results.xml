@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1455" started-at="2018-07-06T19:40:56Z" finished-at="2018-07-06T19:40:57Z">
+  <suite name="Default suite" duration-ms="1500" started-at="2018-07-08T00:14:53Z" finished-at="2018-07-08T00:14:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1455" started-at="2018-07-06T19:40:56Z" finished-at="2018-07-06T19:40:57Z">
+    <test name="Default test" duration-ms="1500" started-at="2018-07-08T00:14:53Z" finished-at="2018-07-08T00:14:55Z">
       <class name="RestApiTests.GetUser">
-        <test-method status="PASS" signature="getUserReturns200WithExpectedName()[pri:0, instance:RestApiTests.GetUser@6d8a00e3]" name="getUserReturns200WithExpectedName" duration-ms="1455" started-at="2018-07-06T14:40:56Z" finished-at="2018-07-06T14:40:57Z">
+        <test-method status="PASS" signature="getUser2Returns200WithExpectedName()[pri:0, instance:RestApiTests.GetUser@5d5eef3d]" name="getUser2Returns200WithExpectedName" duration-ms="1485" started-at="2018-07-07T19:14:53Z" finished-at="2018-07-07T19:14:55Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getUserReturns200WithExpectedName -->
+        </test-method> <!-- getUser2Returns200WithExpectedName -->
       </class> <!-- RestApiTests.GetUser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
