@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1500" started-at="2018-07-08T00:14:53Z" finished-at="2018-07-08T00:14:55Z">
+  <suite name="Default suite" duration-ms="1513" started-at="2018-07-10T05:41:49Z" finished-at="2018-07-10T05:41:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1500" started-at="2018-07-08T00:14:53Z" finished-at="2018-07-08T00:14:55Z">
+    <test name="Default test" duration-ms="1513" started-at="2018-07-10T05:41:49Z" finished-at="2018-07-10T05:41:50Z">
       <class name="RestApiTests.GetUser">
-        <test-method status="PASS" signature="getUser2Returns200WithExpectedName()[pri:0, instance:RestApiTests.GetUser@5d5eef3d]" name="getUser2Returns200WithExpectedName" duration-ms="1485" started-at="2018-07-07T19:14:53Z" finished-at="2018-07-07T19:14:55Z">
+        <test-method status="PASS" signature="getAllUsersReturns200()[pri:0, instance:RestApiTests.GetUser@215be6bb]" name="getAllUsersReturns200" duration-ms="1434" started-at="2018-07-10T00:41:49Z" finished-at="2018-07-10T00:41:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getUser2Returns200WithExpectedName -->
+        </test-method> <!-- getAllUsersReturns200 -->
+        <test-method status="PASS" signature="getSingleUserReturns200()[pri:0, instance:RestApiTests.GetUser@215be6bb]" name="getSingleUserReturns200" duration-ms="63" started-at="2018-07-10T00:41:50Z" finished-at="2018-07-10T00:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserReturns200 -->
       </class> <!-- RestApiTests.GetUser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
