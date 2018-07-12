@@ -1,4 +1,4 @@
-package RestApiTests;
+package restApiTests;
 
 //import static com.jayway.restassured.RestAssured.*;
 
